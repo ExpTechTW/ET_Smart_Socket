@@ -13,7 +13,7 @@
 - [合作](#合作)
 
 ## 文檔
-- 
+- [相關文檔](https://github.com/ExpTechTW/ExpTech-Home#%E6%96%87%E6%AA%94)
 
 ## 注意
 - 採用 `WebSocket` 與 [API服務器](https://github.com/ExpTechTW/API) 交互
